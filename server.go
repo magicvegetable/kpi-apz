@@ -23,4 +23,3 @@ func main() {
 	http.HandleFunc("/time", handle)
 	http.ListenAndServe(":8795", nil)
 }
-
