@@ -7,5 +7,9 @@ charset = utf-8
 
 [*.go]
 indent_style = tab
+<<<<<<< Updated upstream
 indent_size = 8
 
+=======
+indent_size = 4
+>>>>>>> Stashed changes
